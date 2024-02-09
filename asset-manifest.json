@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Solution_Challenge_Sample/static/css/main.5e6f4279.css",
-    "main.js": "/Solution_Challenge_Sample/static/js/main.64493dc4.js",
+    "main.js": "/Solution_Challenge_Sample/static/js/main.cdaf6640.js",
     "static/js/592.256642b7.chunk.js": "/Solution_Challenge_Sample/static/js/592.256642b7.chunk.js",
     "static/media/count.wav": "/Solution_Challenge_Sample/static/media/count.f89c5fa1380233c226e7.wav",
     "static/media/yoga_pose.png": "/Solution_Challenge_Sample/static/media/yoga_pose.822bc3136b445bde25c7.png",
@@ -14,11 +14,11 @@
     "static/media/chair.jpg": "/Solution_Challenge_Sample/static/media/chair.f10c11b942ffb788fc0d.jpg",
     "index.html": "/Solution_Challenge_Sample/index.html",
     "main.5e6f4279.css.map": "/Solution_Challenge_Sample/static/css/main.5e6f4279.css.map",
-    "main.64493dc4.js.map": "/Solution_Challenge_Sample/static/js/main.64493dc4.js.map",
+    "main.cdaf6640.js.map": "/Solution_Challenge_Sample/static/js/main.cdaf6640.js.map",
     "592.256642b7.chunk.js.map": "/Solution_Challenge_Sample/static/js/592.256642b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e6f4279.css",
-    "static/js/main.64493dc4.js"
+    "static/js/main.cdaf6640.js"
   ]
 }
