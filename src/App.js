@@ -10,7 +10,7 @@ import './App.css'
 
 export default function App() {
   return (
-    <Router>
+    <Router basename='/Solution_Challenge_Sample'>
       <Routes>
         <Route path='/' element={<Home />}/>
         <Route path='/start' element={<Yoga />} />
